@@ -1,0 +1,6 @@
+Storia. React è stato creato da Jordan Walke, un ingegnere software di
+Facebook, che lo ha chiamato inizialmente "FaxJS". È stato influenzato
+da XHP, una libreria di componenti HTML per PHP . È stato utilizzato
+inizialmente sul News Feed di Facebook nel 2011 e successivamente su
+Instagram nel 2012.
+
